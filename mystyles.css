@@ -1,0 +1,15 @@
+.myblogcards {
+    margin: 10px;
+    border-radius: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.myblogcards img{
+    border-top-left-radius: 30px ;
+    border-top-right-radius: 30px ;
+}
+
+.myblogcards h4{
+    font: bold;
+    color: #981616;
+}
